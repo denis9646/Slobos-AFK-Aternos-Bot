@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Aternos-Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "InfinitySmp-ewk8.aternos.me",
+    "ip": "infinitysmp-ewk8.aternos.me",
     "port": 23684,
     "version": "",
     "try-creative": false
